@@ -1,6 +1,7 @@
 
-import requests
 
+# 从网页下载文件到本地
+import requests
 # 文件的 URL
 url = 'https://labfile.oss.aliyuncs.com/courses/40544/log.txt'
 
